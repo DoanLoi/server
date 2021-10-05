@@ -1,0 +1,20 @@
+  export DB_CONNECTION="mongodb";
+  export DB_HOST="localhost";
+  export DB_PORT=27017;
+  export DB_NAME="HomeLynh";
+  export DB_USERNAME="";
+  export DB_PASSWORD=""
+  export PORT=2108
+  export APP_HOST=localhost
+
+
+  MONGODB_URI='mongodb+srv://admin:admin@cluster0.livbm.mongodb.net/HomeLynh'
+
+
+
+
+  export MAIL_USER="chomavai@gmail.com";
+  export MAIL_PASSWORD="doanvanloi"
+  export MAIL_HOST="smtp.gmail.com"
+  export MAIL_POST="587"
+  export MY_SECRET="my-secret"
